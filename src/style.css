@@ -1,0 +1,17 @@
+.mi-navbar{
+    background-color:rgb(81, 81, 192);
+    color: azure;
+}
+
+.descripcion{
+    background-color: gray;
+}
+
+.chef{
+    max-width: 850px;
+}
+
+.nombre-chef{
+    font-size: 15px;
+    font-weight: bold;
+}
